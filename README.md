@@ -123,8 +123,22 @@ Works well for small to medium datasets
 📚 References
 Scikit-learn Documentation
 Streamlit Documentation
-Python Documentation
-👨‍💻 Author
+Python Documentation'''
 
+📞 Support & Contact
+Getting Help
+Documentation: Check the /docs folder for detailed guides
+Issues: Report bugs via GitHub Issues
+Discussions: Join our community discussions
+Community
+Discord Server: Join our community
+Telegram : Community discussions
+
+🌟 If you found this project helpful, please consider giving it a star! 🌟
+Built with ❤️ for the developer community
+
+Happy Coding! 🚀
+
+👨‍💻 Author
 Swaraj Chikhale
 B.Tech IT Student
