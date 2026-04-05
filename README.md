@@ -123,7 +123,8 @@ Works well for small to medium datasets
 📚 References
 Scikit-learn Documentation
 Streamlit Documentation
-Python Documentation'''
+Python Documentation
+```
 
 📞 Support & Contact
 Getting Help
@@ -131,8 +132,8 @@ Documentation: Check the /docs folder for detailed guides
 Issues: Report bugs via GitHub Issues
 Discussions: Join our community discussions
 Community
-Discord Server: Join our community
-Telegram : Community discussions
+Discord Server: [Join our community](https://discord.com/invite/EtQdFmED)
+Telegram : [Community discussions](https://t.me/collabcoderx)
 
 🌟 If you found this project helpful, please consider giving it a star! 🌟
 Built with ❤️ for the developer community
